@@ -17,7 +17,7 @@
   <img alt="License" src="https://img.shields.io/github/license/Raxuis/todo-app?color=56BEB8">
 </p>
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -37,9 +37,9 @@ This project is a simple todo list using local storage and react native.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Create a new todo;\
-:heavy_check_mark: Mark a todo as done;\
-:heavy_check_mark: Delete a todo;
+:heavy_check_mark: Create a new todo\
+:heavy_check_mark: Mark a todo as done\
+:heavy_check_mark: Delete a todo
 
 ## :rocket: Technologies
 
@@ -58,16 +58,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Raxuis/youtube_clone
+$ git clone https://github.com/Raxuis/todo-app
 
 # Access
-$ cd youtube_clone
-
-# Install dependencies
-$ yarn
+$ cd todo-app
 
 # Run the project
-$ yarn start
+$ npm run dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
