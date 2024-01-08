@@ -63,6 +63,9 @@ $ git clone https://github.com/Raxuis/todo-app
 # Access
 $ cd todo-app
 
+# Install the dependencies
+$ npm install
+
 # Run the project
 $ npm run dev
 
